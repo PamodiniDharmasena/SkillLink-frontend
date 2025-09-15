@@ -1,0 +1,119 @@
+[
+    {
+      "id": 1,
+      "clientPhoto": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-881954-2379004.jpg&fm=jpg",
+      "title": "Design a Logo for XYZ Company",
+      "category": "Web Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+      "deadline": "2024-09-02 05:30:00",
+      "startDate": "2024-09-01 12:00:00",
+      "keywords": ["Logo Design", "Branding", "Graphic Design", "Adobe Illustrator", "Creative"],
+      "loyaltyRating": 4.5  
+
+    },
+    {
+      "id": 2,
+      "clientPhoto": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg",
+      "title": "Develop a Landing Page for ABC Startup",
+      "category": "Graphic Design",
+      "deadline": "2024-09-20 23:59:59",
+      "startDate": "2024-09-05 08:00:00",
+      "keywords": ["Logo Design", "Branding", "Graphic Design", "Adobe Illustrator", "Creative"]
+
+    },
+    {
+      "id": 3,
+      "clientPhoto": "https://via.placeholder.com/50",
+      "title": "Create a Mobile App for DEF Corporation",
+      "deadline": "2024-10-01 12:00:00",
+      "category": "Software Engineering",
+      "startDate": "2024-09-15 09:00:00",
+      "keywords": ["Logo Design", "Branding", "Graphic Design", "Adobe Illustrator", "Creative"]
+
+    },
+    {
+      "id": 4,
+      "clientPhoto": "https://via.placeholder.com/50",
+      "title": "Design Marketing Materials for GHI Inc.",
+      "deadline": "2024-09-25 17:00:00",
+      "startDate": "2024-09-10 10:00:00"
+    },
+    {
+      "id": 5,
+      "clientPhoto": "https://via.placeholder.com/50",
+      "title": "Develop an E-commerce Website for JKL Store",
+      "deadline": "2024-10-10 18:00:00",
+      "startDate": "2024-09-20 14:00:00"
+    },
+    {
+        "id": 6,
+        "clientPhoto": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-881954-2379004.jpg&fm=jpg",
+        "title": "Design a Logo for XYZ Company",
+        "deadline": "2024-09-01 16:30:00",
+        "startDate": "2024-09-01 12:00:00"
+      },
+      {
+        "id": 7,
+        "clientPhoto": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg",
+        "title": "Develop a Landing Page for ABC Startup",
+        "deadline": "2024-09-20 23:59:59",
+        "startDate": "2024-09-05 08:00:00"
+      },
+      {
+        "id": 8,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Create a Mobile App for DEF Corporation",
+        "deadline": "2024-10-01 12:00:00",
+        "startDate": "2024-09-15 09:00:00"
+      },
+      {
+        "id": 9,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Design Marketing Materials for GHI Inc.",
+        "deadline": "2024-09-25 17:00:00",
+        "startDate": "2024-09-10 10:00:00"
+      },
+      {
+        "id": 10,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Develop an E-commerce Website for JKL Store",
+        "deadline": "2024-10-10 18:00:00",
+        "startDate": "2024-09-20 14:00:00"
+      },
+      {
+        "id": 11,
+        "clientPhoto": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-881954-2379004.jpg&fm=jpg",
+        "title": "Design a Logo for XYZ Company",
+        "deadline": "2024-09-01 16:30:00",
+        "startDate": "2024-09-01 12:00:00"
+      },
+      {
+        "id": 12,
+        "clientPhoto": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg",
+        "title": "Develop a Landing Page for ABC Startup",
+        "deadline": "2024-09-20 23:59:59",
+        "startDate": "2024-09-05 08:00:00"
+      },
+      {
+        "id": 13,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Create a Mobile App for DEF Corporation",
+        "deadline": "2024-10-01 12:00:00",
+        "startDate": "2024-09-15 09:00:00"
+      },
+      {
+        "id": 14,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Design Marketing Materials for GHI Inc.",
+        "deadline": "2024-09-25 17:00:00",
+        "startDate": "2024-09-10 10:00:00"
+      },
+      {
+        "id": 15,
+        "clientPhoto": "https://via.placeholder.com/50",
+        "title": "Develop an E-commerce Website for JKL Store",
+        "deadline": "2024-10-10 18:00:00",
+        "startDate": "2024-09-20 14:00:00"
+      }
+  ]
+  
